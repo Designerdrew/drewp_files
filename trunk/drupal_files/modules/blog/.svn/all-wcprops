@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/blog
+END
+blog.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/blog/blog.test
+END
+blog.module
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/blog/blog.module
+END
+blog.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/blog/blog.install
+END
+blog.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/blog/blog.pages.inc
+END
+blog.info
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/blog/blog.info
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/openid/tests
+END
+openid_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/openid/tests/openid_test.module
+END
+openid_test.install
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/openid/tests/openid_test.install
+END
+openid_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/openid/tests/openid_test.info
+END

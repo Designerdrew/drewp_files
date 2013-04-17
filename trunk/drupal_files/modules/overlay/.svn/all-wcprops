@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay
+END
+overlay-parent.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay-parent.css
+END
+overlay.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay.api.php
+END
+overlay-parent.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay-parent.js
+END
+overlay.module
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay.module
+END
+overlay.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay.tpl.php
+END
+overlay.install
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay.install
+END
+overlay-child-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay-child-rtl.css
+END
+overlay-child.css
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay-child.css
+END
+overlay.info
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay.info
+END
+overlay-child.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/overlay/overlay-child.js
+END

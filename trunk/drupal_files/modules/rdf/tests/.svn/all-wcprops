@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/tests
+END
+rdf_test.install
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/tests/rdf_test.install
+END
+rdf_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/tests/rdf_test.info
+END
+rdf_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/tests/rdf_test.module
+END

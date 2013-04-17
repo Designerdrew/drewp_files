@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/translation
+END
+translation.module
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/translation/translation.module
+END
+translation.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/translation/translation.pages.inc
+END
+translation.info
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/translation/translation.info
+END
+translation.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/translation/translation.test
+END

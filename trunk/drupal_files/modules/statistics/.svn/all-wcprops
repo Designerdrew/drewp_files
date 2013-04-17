@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics
+END
+statistics.install
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics/statistics.install
+END
+statistics.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics/statistics.pages.inc
+END
+statistics.info
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics/statistics.info
+END
+statistics.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics/statistics.tokens.inc
+END
+statistics.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics/statistics.test
+END
+statistics.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics/statistics.admin.inc
+END
+statistics.module
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/statistics/statistics.module
+END

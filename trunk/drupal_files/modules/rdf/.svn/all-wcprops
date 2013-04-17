@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf
+END
+rdf.module
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/rdf.module
+END
+rdf.install
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/rdf.install
+END
+rdf.info
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/rdf.info
+END
+rdf.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/rdf.api.php
+END
+rdf.test
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/rdf/rdf.test
+END

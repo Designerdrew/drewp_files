@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/field/modules/number
+END
+number.info
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/field/modules/number/number.info
+END
+number.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/field/modules/number/number.test
+END
+number.module
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/field/modules/number/number.module
+END
+number.install
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/field/modules/number/number.install
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll
+END
+poll.info
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll.info
+END
+poll.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll.tokens.inc
+END
+poll-bar--block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll-bar--block.tpl.php
+END
+poll.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll.test
+END
+poll-vote.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll-vote.tpl.php
+END
+poll-results.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll-results.tpl.php
+END
+poll.module
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll.module
+END
+poll.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll.install
+END
+poll-bar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll-bar.tpl.php
+END
+poll-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll-rtl.css
+END
+poll.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll.pages.inc
+END
+poll.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll.css
+END
+poll-results--block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/poll/poll-results--block.tpl.php
+END

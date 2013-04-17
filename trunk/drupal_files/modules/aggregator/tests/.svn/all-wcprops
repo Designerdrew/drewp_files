@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/aggregator/tests
+END
+aggregator_test_atom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/aggregator/tests/aggregator_test_atom.xml
+END
+aggregator_test_rss091.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/aggregator/tests/aggregator_test_rss091.xml
+END
+aggregator_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/aggregator/tests/aggregator_test.module
+END
+aggregator_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/aggregator/tests/aggregator_test.info
+END

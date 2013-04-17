@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/syslog
+END
+syslog.module
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/syslog/syslog.module
+END
+syslog.install
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/syslog/syslog.install
+END
+syslog.info
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/syslog/syslog.info
+END
+syslog.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/syslog/syslog.test
+END

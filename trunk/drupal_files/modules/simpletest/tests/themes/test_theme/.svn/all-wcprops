@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/simpletest/tests/themes/test_theme
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/simpletest/tests/themes/test_theme/template.php
+END
+test_theme.info
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/simpletest/tests/themes/test_theme/test_theme.info
+END

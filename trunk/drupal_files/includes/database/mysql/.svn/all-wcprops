@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/includes/database/mysql
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/includes/database/mysql/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/includes/database/mysql/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/includes/database/mysql/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/includes/database/mysql/install.inc
+END

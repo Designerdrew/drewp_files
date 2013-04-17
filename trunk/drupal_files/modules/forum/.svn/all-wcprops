@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum
+END
+forum.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum.css
+END
+forums.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forums.tpl.php
+END
+forum-topic-list.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum-topic-list.tpl.php
+END
+forum-icon.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum-icon.tpl.php
+END
+forum.info
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum.info
+END
+forum-list.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum-list.tpl.php
+END
+forum.test
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum.test
+END
+forum.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum.admin.inc
+END
+forum-submitted.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum-submitted.tpl.php
+END
+forum.module
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum.module
+END
+forum.install
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum.install
+END
+forum-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum-rtl.css
+END
+forum.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/drewp_demo/!svn/ver/19/trunk/drupal_files/modules/forum/forum.pages.inc
+END
